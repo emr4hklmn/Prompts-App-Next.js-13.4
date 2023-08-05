@@ -1,3 +1,17 @@
+Technologies used in This Project are:
+Next JS
+React JS
+Next Auth
+Javascript
+html5
+css3
+BCRYPT
+mangoDb
+tailwind
+mongoose
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
