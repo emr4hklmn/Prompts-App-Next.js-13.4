@@ -1,14 +1,14 @@
-Technologies used in This Project are:
-Next JS
-React JS
-Next Auth
-Javascript
-html5
-css3
-BCRYPT
-mangoDb
-tailwind
-mongoose
+Technologies used in this Project are:
+Next JS,
+React JS,
+Next Auth,
+Javascript,
+Html5,
+Css3,
+Bcrypt,
+MangoDb,
+Tailwind,
+Mongoose
 
 
 
